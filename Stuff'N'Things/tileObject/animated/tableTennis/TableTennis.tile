@@ -1,0 +1,51 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "game",
+    "green",
+    "table"
+  ],
+  "code": "MarkGrant.StuffNThings.TableTennis",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 2,
+      "z": 3
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 30,
+    "value": 50
+  },
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "frameAnimatedTile": {
+    "frameTime": 0.1,
+  },
+  "prefetchTileState": true,
+  "tileStateKind": "staxel.tileState.FrameAnimated",
+  "useCustomRendering": true,
+  "variants": [
+    "mods/Stuff'N'Things/tileObject/animated/tableTennis/TableTennis01.qb",
+    "mods/Stuff'N'Things/tileObject/animated/tableTennis/TableTennis02.qb",
+    "mods/Stuff'N'Things/tileObject/animated/tableTennis/TableTennis03.qb",
+    "mods/Stuff'N'Things/tileObject/animated/tableTennis/TableTennis04.qb",
+    "mods/Stuff'N'Things/tileObject/animated/tableTennis/TableTennis05.qb",
+    "mods/Stuff'N'Things/tileObject/animated/tableTennis/TableTennis06.qb",
+    "mods/Stuff'N'Things/tileObject/animated/tableTennis/TableTennis07.qb",
+    "mods/Stuff'N'Things/tileObject/animated/tableTennis/TableTennis08.qb",
+    "mods/Stuff'N'Things/tileObject/animated/tableTennis/TableTennis09.qb",
+    "mods/Stuff'N'Things/tileObject/animated/tableTennis/TableTennis10.qb",
+    "mods/Stuff'N'Things/tileObject/animated/tableTennis/TableTennis11.qb",
+    "mods/Stuff'N'Things/tileObject/animated/tableTennis/TableTennis12.qb",
+    "mods/Stuff'N'Things/tileObject/animated/tableTennis/TableTennis13.qb",
+    "mods/Stuff'N'Things/tileObject/animated/tableTennis/TableTennis14.qb",
+    "mods/Stuff'N'Things/tileObject/animated/tableTennis/TableTennis15.qb",
+    "mods/Stuff'N'Things/tileObject/animated/tableTennis/TableTennis16.qb",
+    "mods/Stuff'N'Things/tileObject/animated/tableTennis/TableTennis17.qb",
+    "mods/Stuff'N'Things/tileObject/animated/tableTennis/TableTennis18.qb",
+	]
+}

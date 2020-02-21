@@ -1,0 +1,36 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "furniture",
+    "blue",
+    "white",
+    "pink",
+    "orange",
+    "red",
+    "yellow",
+    "blue",
+    "purple",
+    "beach",
+    "set",
+    "chair",
+    "seat",
+    "sit"
+  ],
+  "code": "MarkGrant.StuffNThings.RecordPlayer",
+   "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 120,
+    "value": 200
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/Stuff'N'Things/tileObject/RecordPlayer.qb"
+}

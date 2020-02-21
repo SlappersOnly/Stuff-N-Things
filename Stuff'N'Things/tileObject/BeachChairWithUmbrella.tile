@@ -1,0 +1,38 @@
+{
+  "__inherits": "staxel/docks/dockBase.config",
+  "categories": [
+    "furniture",
+    "blue",
+    "white",
+    "pink",
+    "orange",
+    "red",
+    "yellow",
+    "blue",
+    "purple",
+    "beach",
+    "set",
+    "chair",
+    "seat",
+    "sit"
+  ],
+  "code": "MarkGrant.StuffNThings.BeachChairWithUmbrella",
+   "compound": {
+    "size": {
+      "x": 4,
+      "y": 3,
+      "z": 3
+    }
+  },
+  "dockDefinition": "MarkGrant.MiscMod.docks.BeachChairWithUmbrella",
+  "interactVerb": "controlHint.verb.Sit",
+  "prefetchTileState": true,
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 120,
+    "value": 200
+  },
+  "searchable": true,
+  "voxels": "mods/Stuff'N'Things/tileObject/BeachChairWithUmbrella.qb"
+}

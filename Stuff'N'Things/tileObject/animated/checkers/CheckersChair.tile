@@ -1,0 +1,20 @@
+{
+  "__inherits": "staxel/docks/OneSeater.config",
+  "categories": [
+    "brown",
+    "game",
+    "chair"
+  ],
+  "code": "MarkGrant.StuffNThings.CheckersChair",
+  "dockDefinition": "staxel.docks.KitchenChair",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 200,
+    "value": 300
+  },
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/Stuff'N'Things/tileObject/animated/checkers/CheckersChair.qb"
+}

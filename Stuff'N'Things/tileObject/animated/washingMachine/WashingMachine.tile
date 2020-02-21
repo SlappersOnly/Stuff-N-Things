@@ -1,0 +1,31 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "washing",
+    "white",
+    "washer",
+    "laundry",
+    "decoration"
+  ],
+  "code": "MarkGrant.StuffNThings.WashingMachineAnimated",
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 120,
+    "value": 200
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+    "frameAnimatedTile": {
+    "frameTime": 0.5,
+  },
+  "prefetchTileState": true,
+  "tileStateKind": "staxel.tileState.FrameAnimated",
+  "useCustomRendering": true,
+  "variants": [
+    "mods/Stuff'N'Things/tileObject/animated/washingMachine/WashingMachine01.qb",
+    "mods/Stuff'N'Things/tileObject/animated/washingMachine/WashingMachine02.qb",
+    "mods/Stuff'N'Things/tileObject/animated/washingMachine/WashingMachine03.qb",
+    "mods/Stuff'N'Things/tileObject/animated/washingMachine/WashingMachine04.qb",
+	]
+}

@@ -1,0 +1,70 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "categories": [
+    "game",
+    "green",
+    "table"
+  ],
+  "code": "MarkGrant.StuffNThings.PoolTable",
+  "compound": {
+    "size": {
+      "x": 2,
+      "y": 1,
+      "z": 4
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": true,
+    "buyable": true,
+    "sellPrice": 30,
+    "value": 50
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "frameAnimatedTile": {
+    "frameTime": 0.3,
+  },
+  "prefetchTileState": true,
+  "tileStateKind": "staxel.tileState.FrameAnimated",
+  "useCustomRendering": true,
+  "variants": [
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable01.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable01.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable01.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable01.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable01.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable01.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable02.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable03.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable02.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable01.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable01.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable02.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable03.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable02.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable01.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable01.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable02.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable03.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable04.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable05.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable06.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable07.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable08.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable09.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable10.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable11.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable12.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable13.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable14.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable15.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable15.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable15.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable16.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable16.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable16.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable17.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable17.qb",
+    "mods/Stuff'N'Things/tileObject/animated/poolTable/PoolTable17.qb",
+	]
+}
